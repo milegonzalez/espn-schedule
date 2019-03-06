@@ -1,0 +1,25 @@
+{
+  "name": "joe-services-schedule-copy",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milegonzalez/joe-services-schedule.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milegonzalez/joe-services-schedule/issues"
+  },
+  "homepage": "https://github.com/milegonzalez/joe-services-schedule#readme",
+  "dependencies": {
+    "bookshelf": "^0.14.2",
+    "express": "^4.16.4",
+    "knex": "^0.16.3",
+    "pg": "^7.8.1"
+  }
+}
